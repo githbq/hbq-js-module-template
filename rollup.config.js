@@ -40,7 +40,7 @@ function getConfig (options) {
         }),
       banner({
         banner: `/*!
-* moduleName@${version}
+* ${moduleName}@${version}
 * (c) 2018-${new Date().getFullYear()} github.com
 */`
       })
