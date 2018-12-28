@@ -1,0 +1,1 @@
+export const name= { a: 2,   async a () { return Object.values({ a: 2 }) } }
