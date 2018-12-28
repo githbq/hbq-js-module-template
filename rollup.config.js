@@ -10,7 +10,7 @@ import nodeResolve from "rollup-plugin-node-resolve"
 console.log(`准备构建 any@${version} 
 构建完成后请使用example/index.html进行测试，并将生成的文件提交到Git仓库。`)
 
-const moduleName = 'moduleName'
+const moduleName = 'JsBridge'
 
 function getConfig (options) {
   const config = {
